@@ -1,0 +1,1 @@
+Standalone GitHub Pages version. Upload this folder, or just index.html, to the root of your repository. No data folder or external JSON files are required.
